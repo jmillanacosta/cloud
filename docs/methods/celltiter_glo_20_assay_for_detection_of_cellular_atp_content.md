@@ -38,4 +38,4 @@ Luminescence-based detection of cellular ATP content
 
 ---
 
-*Generated from issue #168 on 2025-12-03*
+*Generated from issue #168 on 2026-01-19*

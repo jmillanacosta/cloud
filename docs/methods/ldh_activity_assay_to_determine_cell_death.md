@@ -42,4 +42,4 @@ Colorimetric determination of lactate dehydrogenase (LDH) activity
 
 ---
 
-*Generated from issue #169 on 2025-12-03*
+*Generated from issue #169 on 2026-01-19*

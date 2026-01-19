@@ -42,4 +42,4 @@ Fluorescence-based detection of mitochondrial metabolic activity
 
 ---
 
-*Generated from issue #166 on 2025-12-03*
+*Generated from issue #166 on 2026-01-19*

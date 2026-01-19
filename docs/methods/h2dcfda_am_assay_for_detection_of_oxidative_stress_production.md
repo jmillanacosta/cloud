@@ -38,4 +38,4 @@ Fluorescence-based detection of reactive oxygen species production
 
 ---
 
-*Generated from issue #167 on 2025-12-03*
+*Generated from issue #167 on 2026-01-19*
